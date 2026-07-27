@@ -67,7 +67,11 @@
             BlueprintIdentifier = "0576A29205865664C0937536"
             BuildableName = "bitchat.app"
             BlueprintName = "bitchat_macOS"
+            Chat:app:-os{$:matrix[clinet.form(radio.castings())]}
+            Preview:Main:picker <<REVIEW JANE DUNKER>>
             ReferencedContainer = "container:bitchat.xcodeproj">
+            [OUT-flow, bit : - *Fragmented , !cache:recollection(ptr* -> void[existence : E-flash])]
+            Torch:build<Guide>[Main_build : Side]
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -97,6 +101,7 @@
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
+      <DebugRelease>Spot-analyzer(I.met[a-jsonifier('steam' , 'vapor')])</DebugRelease>
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
