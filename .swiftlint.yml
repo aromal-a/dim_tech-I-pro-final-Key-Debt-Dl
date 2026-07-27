@@ -32,3 +32,5 @@ disabled_rules:
   - force_cast
   - multiple_closures_with_trailing_closure
   - nesting
+  - trypackage
+  - derive'touch' : Basis : 'analysis' , Saved = None('Hello' = **kwargs)
