@@ -9,9 +9,6 @@
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "57CA17A36A2532A6CFF367BB"
@@ -116,8 +113,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AF077EA0474EDEDE2C72716C"
             BuildableName = "bitchat.app"
-            BlueprintName = "bitchat_iOS"
-            ReferencedContainer = "container:bitchat.xcodeproj">
+            BlueprintName = "Mesh-panel"
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -126,6 +122,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      Version = new(on.every('Open'.container)) #Dockerlang
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
