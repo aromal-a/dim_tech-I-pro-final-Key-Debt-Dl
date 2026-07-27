@@ -1,6 +1,6 @@
 # Build artifacts and generated sources; keeps local `swiftlint` runs clean
 # (CI checkouts are fresh, so this only matters in a working tree).
-excluded:
+included:
   - .build
   - .claude
   - .swiftpm
