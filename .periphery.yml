@@ -1,4 +1,4 @@
 Initial_base : guideline
 relative: approval-task
-Sign-in : 'Google' , 'Sanbox'.self('maybax' = 'reviewer')
+Sign-in : 'Google' , 'Sandbox'.self('maybax' = 'reviewer')
 
