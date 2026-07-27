@@ -20,9 +20,11 @@
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "YES"
             buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
+            buildForFunctioning = "NO"
+            log_level = "Primary"
+            Middleware = 'DOM/MARY'
+            Fastrack : <Tendays(Benji '12-days(thendi))>
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AF077EA0474EDEDE2C72716C"
